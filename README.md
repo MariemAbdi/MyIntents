@@ -2,17 +2,14 @@
 Android Application to learn intents
 
 <img src="https://user-images.githubusercontent.com/100727442/193609796-1de69500-cf43-4f8e-ba77-4eb98d33d399.jpg" width="300">
-
-
-![SmartSelect_20221003_155012_My Intents](https://user-images.githubusercontent.com/100727442/193609796-1de69500-cf43-4f8e-ba77-4eb98d33d399.jpg)
-
-
+<img src="https://user-images.githubusercontent.com/100727442/193609840-bb1975cc-3d6b-4900-bab3-494472e74b04.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/100727442/193609876-b6bd5d03-892d-43be-97cb-59f31c961227.jpg" width="300">
 
 
 
 
-![SmartSelect_20221003_155057_My Intents](https://user-images.githubusercontent.com/100727442/193609840-bb1975cc-3d6b-4900-bab3-494472e74b04.jpg)
-![SmartSelect_20221003_155028_My Intents](https://user-images.githubusercontent.com/100727442/193609876-b6bd5d03-892d-43be-97cb-59f31c961227.jpg)
+
+
 ![SmartSelect_20221003_155043_My Intents](https://user-images.githubusercontent.com/100727442/193609894-ce53aac7-6f2f-4291-aae7-1c668da7daa2.jpg)
 ![SmartSelect_20221003_155109_My Intents](https://user-images.githubusercontent.com/100727442/193609928-4d1246f7-c0c3-4c3f-b31d-2d3fe639103c.jpg)
 ![SmartSelect_20221003_155133_My Intents](https://user-images.githubusercontent.com/100727442/193609960-ca94ce2e-e961-4261-b7a5-0764b2574f28.jpg)
