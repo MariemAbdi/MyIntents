@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/beige"
+    android:padding="@dimen/my_borders"
+    tools:context=".MainActivity">
+
+
+    <EditText
+        android:layout_gravity="center"
+        android:id="@+id/nametv"
+        android:background="@drawable/input_formating"
+        android:textSize="@dimen/my_text"
+        android:padding="@dimen/my_buttons"
+        android:layout_margin="@dimen/my_borders"
+        android:textColor="@color/white"
+        android:hint="@string/nametv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/my_borders"
+        android:id="@+id/shownametv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/shownametv"
+        android:textColor="@color/white"
+        android:textSize="@dimen/my_text"
+        android:padding="@dimen/my_buttons"
+        android:background="@drawable/rounded_corners"
+        />
+
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_gravity="center"
+        android:id="@+id/longtext"
+        android:layout_margin="@dimen/my_borders"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/longtext"
+        android:textColor="@color/white"
+        android:textSize="@dimen/my_text"
+        android:padding="@dimen/my_buttons"
+        android:background="@drawable/rounded_corners"
+        />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/my_borders"
+        android:id="@+id/addevent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/addevent"
+        android:textColor="@color/white"
+        android:textSize="@dimen/my_text"
+        android:padding="@dimen/my_buttons"
+        android:background="@drawable/rounded_corners"
+        />
+
+</LinearLayout>
