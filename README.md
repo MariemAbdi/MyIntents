@@ -1,9 +1,10 @@
 # MyIntents
 Android Application to learn intents
-
+<p float="left">
 <img src="https://user-images.githubusercontent.com/100727442/193609796-1de69500-cf43-4f8e-ba77-4eb98d33d399.jpg" width="300">
 <img src="https://user-images.githubusercontent.com/100727442/193609840-bb1975cc-3d6b-4900-bab3-494472e74b04.jpg" width="300">
 <img src="https://user-images.githubusercontent.com/100727442/193609876-b6bd5d03-892d-43be-97cb-59f31c961227.jpg" width="300">
+</p>
 
 
 
