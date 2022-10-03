@@ -1,7 +1,7 @@
 # MyIntents
 Android Application to learn intents
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/100727442/193609796-1de69500-cf43-4f8e-ba77-4eb98d33d399.jpg))" width="300">
+<img src="https://user-images.githubusercontent.com/100727442/193609796-1de69500-cf43-4f8e-ba77-4eb98d33d399.jpg" width="300">
 
 
 ![SmartSelect_20221003_155012_My Intents](https://user-images.githubusercontent.com/100727442/193609796-1de69500-cf43-4f8e-ba77-4eb98d33d399.jpg)
